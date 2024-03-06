@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 🤝 I’m looking for help with **Unity/Unreal Engine**
-
 - 👨‍💻 All of my Minecraft projects are available at [https://www.spigotmc.org/members/mnct.1354192/](https://www.spigotmc.org/members/mnct.1354192/)
 
 - 👨‍💻 All of my Other projects are available at [https://github.com/MNCTTT](https://github.com/MNCTTT)
