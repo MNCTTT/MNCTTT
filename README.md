@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Minecraft plugins and Python Projects**
 
+- 🔭 I’m currently working on **[BITPIXLS](https://bitpixls.org)**
+
 - 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my Minecraft projects are available at [https://www.spigotmc.org/members/mnct.1354192/](https://www.spigotmc.org/members/mnct.1354192/)
